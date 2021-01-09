@@ -1,5 +1,6 @@
 ## Yellow Paper
-> #### Gentlemen's Disclaimer
+### Gentlemen's Disclaimer
+![plot](https://github.com/gentlemensbank/gentlemensbank/blob/main/webbanner.png)
 > You are not guaranteed to make money by following any advice offered by the Gentlemen's Bank. Past performance is not an indication of future results. You alone are responsible for the safety of your funds. We will always do our best, but your capital is at risk. 
 
 # Gentlemen's Bank 
@@ -23,6 +24,7 @@ LQ providers receive fees for trades occurring across their trade pair proportio
 
 **EX:** Supply 5% of the pool get 5% of fees across the trading pair.
 
+![plot](https://github.com/gentlemensbank/gentlemensbank/blob/main/simplegb.png)
 
 ### Requirements
 
@@ -53,7 +55,8 @@ LQ providers receive fees for trades occurring across their trade pair proportio
 * Changes to the public vault are established via a DAO or another consensus mechanism.
 * Public vault should remain protected from as much market exposure as possible.
 * Funds should not be lent or borrowed from the public vault.
-* Treasuries
+
+### Treasuries
 
 **"Private Pools/Trust Vaults"**
 * The GB members add funds to private vaults or directly to the main vault. 
@@ -62,6 +65,8 @@ LQ providers receive fees for trades occurring across their trade pair proportio
 * Members can also give certain access to their own vault to other people.
 * Private vaults can be used as identity proxies for members— increased privacy.
 * Treasury vault where GBS and GBN oversupplies are stored.
+
+![plot](https://github.com/gentlemensbank/gentlemensbank/blob/main/vaults.png)
 
 ### Fund Handling
 
@@ -100,7 +105,11 @@ A simple close-up of a GB strategy and an example of the usage of main vault fun
 
 These allocations are just an example. Parameters can be adjusted by the managers. An advanced version of a GB with plenty of members and equity could create a DAO structure. Investments could then be voted on by the GB members. Allowing a more democratic allocation of capital. 
 
+![plot](https://github.com/gentlemensbank/gentlemensbank/blob/main/gbstratoverview3.png)
+
 The main vault is an equity vault and an investment fund combined. The managers of the main vault deploy funds via various financial strategies and diversify across a broad selection of assets. 
+
+![plot](https://github.com/gentlemensbank/gentlemensbank/blob/main/gbassetdistribution.png)
 
 The whole point of the main vault is to pool capital to create a return for the members. 
 GB managers simply oversee this capital to ensure that it's utilized effectively and efficiently
@@ -136,17 +145,21 @@ The tokenomics of a Gentlemen's Bank & the differences between equity shares and
 
 Gentlemen's bank shares allow members to hold a portion of bank equity while securing their capital contributions. GBS represents a transparent collateralized financial instrument with powers of governance. All deposits to the main vault are openly available for inspection via public blockchain transactions. Various portfolio watchers, blockchain scanners and address trackers can follow the vault contracts.
 
+![plot](https://github.com/gentlemensbank/gentlemensbank/blob/main/gbshares.png)
+
 GB members earn shares pro-rata for deposits valued in USD. At a rate of one-to-one. One GBS represents the equity value of the main vault. A member's share value is proportionate to the value of the bank's equity. GB shares are exchangeable for equity in the vault. If the vault equity value decreases, the GBS value declines in tandem. A cap placed upon liquid shares prevents an overall run on the bank.
 
 > Bank equity shares— held by community members— are used as voting power in a DAO structure.
 
 ### Distribution 10/90
 
-A maximum of 10% of all GBS can be liquid
-Reducing or increasing liquid GBS is voted by shareholders
+* A maximum of 10% of all GBS can be liquid
+  * Reducing or increasing liquid GBS is voted by shareholders
 
-A minimum of 90% is locked in the treasury
-Moving treasury funds is voted by shareholders
+* A minimum of 90% is locked in the treasury
+  * Moving treasury funds is voted by shareholders
+
+![plot](https://github.com/gentlemensbank/gentlemensbank/blob/main/supplyexample.png)
 
 A liquid share supply of 10% allows bank members to have a free exchange of equity value. A supply cap also means the bulk of bank shares are locked away from the market, reducing the chance of mass dumping, value dilution, fraud, personal enrichment by managers and overall overextension of the bank's reserves.
 
@@ -170,6 +183,8 @@ Strict caps and other parameters prevent a run on the main vault by only allowin
     * Main Vault: 10% o/fv
 
 * GB share value cannot be greater than the overall fund value/total assets in the main vault. Caps such as these prevent overextension of equity,  a run on the vault/treasuries and unwarranted share dilution.
+
+![plot](https://github.com/gentlemensbank/gentlemensbank/blob/main/gbsequitypool.png)
 
 > EX:10% TSS= % liquid shares @ 1GBN:1USD
 

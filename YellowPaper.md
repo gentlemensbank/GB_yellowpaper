@@ -231,7 +231,7 @@ A Gentlemen's Bank is a community based smart-fund concept.
 
 A wealth-building arrangement with digital vault protection.
  
-#### References
+### References
  1. [Handshake Deal Protocol](https://www.ycombinator.com/handshake/)
  2. [World Commodities And World Currency: Benjamin Graham](https://www.goodreads.com/book/show/518867.World_Commodities_And_World_Currency)
  3. [Gnosis Multi-Sig Safe](https://gnosis-safe.io/)

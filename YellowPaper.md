@@ -231,13 +231,13 @@ A Gentlemen's Bank is a community based smart-fund concept.
 A wealth-building arrangement with digital vault protection.
  
 #### References
- 1. [Handshake Deal Protocol]()
- 2. [World Commodities And World Currency: Benjamin Graham]()
- 3. [Gnosis Multi-Sig Safe]()
- 4. [Smart Contract Extensibility with Wrapped Tokens: Yos Riady]()
- 5. [Balancer Smart Pools ]()
- 6. [Bankless]()
- 7. [DAOs, Blockchain, and the Potential of Ownerless Business]()
- 8. [What is DeFi?: DeFi Pulse]()
- 9. [What's a DAO?: Aragon]()
+ 1. [Handshake Deal Protocol](https://www.ycombinator.com/handshake/)
+ 2. [World Commodities And World Currency: Benjamin Graham](https://www.goodreads.com/book/show/518867.World_Commodities_And_World_Currency)
+ 3. [Gnosis Multi-Sig Safe](https://gnosis-safe.io/)
+ 4. [Smart Contract Extensibility with Wrapped Tokens: Yos Riady](https://yos.io/2019/07/13/smart-contract-extensibility-wrapped-tokens/)
+ 5. [Balancer Smart Pools ](https://docs.balancer.finance/smart-contracts/smart-pools)
+ 6. [Bankless](https://newsletter.banklesshq.com/)
+ 7. [DAOs, Blockchain, and the Potential of Ownerless Business](https://www.investopedia.com/news/daos-and-potential-ownerless-business/)
+ 8. [What is DeFi?: DeFi Pulse](https://defipulse.com/blog/what-is-defi/)
+ 9. [What's a DAO?: Aragon](https://aragon.org/dao)
 10. [BarnBridge Tokenized Risk Protocol](https://barnbridge.com)

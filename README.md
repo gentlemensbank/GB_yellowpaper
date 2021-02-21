@@ -43,7 +43,8 @@ LQ providers receive fees for trades occurring across their trade pair proportio
   - Token representations— tokenized equity shares, non-fungible tokens (badges).
 
 * Managers need to remain in communication to avoid removal.
-  - Managers can vote between themselves and with members to remove a manager.-Avoid international managers. If managers are international make sure they are in similar time zones, they are very trustworthy or you do not need their signature to fully execute transactions.
+  - Managers can vote between themselves and with members to remove a manager.
+  - Avoid international managers. If managers are international make sure they are in similar time zones, they are very trustworthy or you do not need their signature to fully execute transactions.
 
 ## Vaults
 

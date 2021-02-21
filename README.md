@@ -120,23 +120,24 @@ GB managers simply oversee this capital to ensure that it's utilized effectively
 A GB is operated mostly with 'handshakes' non-professional but formal agreements. The strategies of a gentlemen's bank can be broken down and adjusted to whatever conditions the managers of the bank agree with. If the GB has many members, it is recommended that a DAO is established. A DAO allows the community of members to participate in decisions and suggest proposals themselves. Giving more control over decisions around their invested funds and the future of the bank.
 
 If a GB has issued shares, then a member receives shares for their equity portion in the main vault. Shares carry voting power proportional to their equity value. Members always have the option of redeeming those shares with the bank pro-rata. A handshake occurs between one or more of the bank managers and every member of the bank.
-Parameters
 
-A handshake with a GB manager does not guarantee a return.
+### Parameters
 
-Funds are given from members to managers— they acknowledge funds in the main vault could be deployed and used in financial strategies.
+> A handshake with a GB manager does not guarantee a return.
 
-It's recommended to shake more than one person's hand.
-Ie; Deal with more than one manager
+* Funds are given from members to managers— they acknowledge funds in the main vault could be deployed and used in financial strategies.
 
-For personal record-keeping, a member should solicit a receipt of some sort. 
-- It could be in the form of a token or a signed document, ideally on the blockchain and immutable.
+* It's recommended to shake more than one person's hand.
+  - Ie; Deal with more than one manager
 
-Do not put money in a place you do not understand or make deals with people regarding money you cannot afford to lose.
+* For personal record-keeping, a member should solicit a receipt of some sort. 
+  - It could be in the form of a token or a signed document, ideally on the blockchain and immutable.
 
-A GB does not mean you cannot, or should not have another banking option.
+* Do not put money in a place you do not understand or make deals with people regarding money you cannot afford to lose.
 
-Large GB’s need to consider a DAO structure or another form of publicly accessible governance.
+* A GB does not mean you cannot, or should not have another banking option.
+
+* Large GB’s need to consider a DAO structure or another form of publicly accessible governance.
 
 ## Tokenomics
 

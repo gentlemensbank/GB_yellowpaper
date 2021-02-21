@@ -121,9 +121,9 @@ A GB is operated mostly with 'handshakes' non-professional but formal agreements
 
 If a GB has issued shares, then a member receives shares for their equity portion in the main vault. Shares carry voting power proportional to their equity value. Members always have the option of redeeming those shares with the bank pro-rata. A handshake occurs between one or more of the bank managers and every member of the bank.
 
-### Parameters
-
 > A handshake with a GB manager does not guarantee a return.
+
+### Parameters
 
 * Funds are given from members to managers— they acknowledge funds in the main vault could be deployed and used in financial strategies.
 
